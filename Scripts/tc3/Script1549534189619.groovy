@@ -22,4 +22,6 @@ import internal.GlobalVariable as GlobalVariable
 WebUI.acceptAlert()
 
 WebUI.acceptAlert()
+WebUI.acceptAlert()
+
 
